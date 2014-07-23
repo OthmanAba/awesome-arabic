@@ -6,4 +6,5 @@ A curated list of awesome Arabic supporting tools, fonts, and development resour
 ## CSS
 ## Fonts
 [Frutiger Arabic](http://www.linotype.com/270925/frutigerarabic-family.html)
+
 [Amiri Font](http://www.amirifont.org)
