@@ -6,7 +6,6 @@ Tools that either are made for Arabic or support Arabic
 * [Python NLTK](https://github.com/nltk/nltk)
 * [Arabic NLP](https://github.com/SemanticFrontiers/ArabicNLP)
 
-## Text Editors
 ## Frameworks
 Web Frameworks with native support for RTL languages
 * [Django with Arabic Locale](https://www.djangoproject.com)
