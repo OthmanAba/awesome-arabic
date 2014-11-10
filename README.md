@@ -14,6 +14,10 @@ Web Frameworks with native support for RTL languages
 ## CSS
 CSS resources that support RTL languages
 * [Bootstrap 3 Arabic](https://github.com/izer0x/bootstrap-3-arabic)
+ 
+## Javascript
+JavaScript resources that support RTL languages
+* [Typeahead.js](http://twitter.github.io/typeahead.js/)
 
 ## Fonts
 Modern arabic web fonts
