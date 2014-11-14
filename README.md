@@ -8,11 +8,12 @@ Tools that either are made for Arabic or support Arabic
 
 ## Frameworks
 Web Frameworks with native support for RTL languages
-* [Django with Arabic Locale](https://www.djangoproject.com)
+* [Django with Arabic Settings](https://www.djangoproject.com)
 
 ## CSS
 CSS resources that support RTL languages
 * [Bootstrap 3 Arabic](https://github.com/izer0x/bootstrap-3-arabic)
+* [Foundation 5](http://foundation.zurb.com/)
  
 ## Javascript
 JavaScript resources that support RTL languages
