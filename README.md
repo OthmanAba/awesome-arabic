@@ -23,3 +23,8 @@ JavaScript resources that support RTL languages
 Modern arabic web fonts
 * [Frutiger Arabic](http://www.linotype.com/270925/frutigerarabic-family.html)
 * [Amiri Font](http://www.amirifont.org)
+
+## Miscellaneous
+A mix of awesome things
+* [Arabic Typography](http://www.amazon.com/dp/0863563473/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=19XQVAI7YN6HF&coliid=I23VQZXYRHEDZS)
+* [Why Do They Hate Us?](http://www.newsweek.com/politics-rage-why-do-they-hate-us-154345)
