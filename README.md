@@ -27,3 +27,4 @@ Modern arabic web fonts
 ## Miscellaneous
 A mix of awesome things
 * [Arabic Typography](http://www.amazon.com/dp/0863563473/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=19XQVAI7YN6HF&coliid=I23VQZXYRHEDZS)
+* [OpenMapTiles](https://openmaptiles.org/languages/ar/#1.38/0/0) - world map tiles in Arabic
