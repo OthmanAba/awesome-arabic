@@ -17,6 +17,7 @@ Programming Language specific resources that support Arabic
 
 #### Javascript
 * [Typeahead.js](http://twitter.github.io/typeahead.js/)
+* [Fix Arabic Numbers](https://github.com/homaily/fix-arabic-numbers) - Simple Moment.js style library that changes Arabic numbers (١٢٣...) into (123...) 
 * [arabicString](https://github.com/ahmads/arabicString) - A Javascript library that extends the native String object with methods to help when dealing with Arabic strings for node and the browser.
 * [Arli](http://elkebirmed.github.io/arli/) - JavaScript tools for an Arabic development.
 * [bidiweb](https://github.com/hasenj/bidiweb) - Determine the base direction of paragraphs and adjust them accordingly.
